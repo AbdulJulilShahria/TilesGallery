@@ -14,7 +14,7 @@
 import { createAuthClient } from "better-auth/react";
 
 export const authClient = createAuthClient({
-  baseURL: "https://category-a8-apple-ten.vercel.app/",
+  baseURL: "https://category-a8-apple-ten-rho.vercel.app",
 });
 
 export const {
